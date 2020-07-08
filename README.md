@@ -2,6 +2,7 @@
 # Codat-QA-Task
 
 ## Instructions to Codat team
+- Install chrome browser
 - To run the test
 - Download any IDE  preferably  IntelliJ
 - Import the project
