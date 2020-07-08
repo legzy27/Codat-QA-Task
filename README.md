@@ -2,10 +2,10 @@
 # Codat-QA-Task
 
 ## Instructions to Codat team
-- Install chrome browser
 - To run the test
-- Download any IDE  preferably  IntelliJ
+- Install chrome browser
+- Download and install any IDE  preferably  IntelliJ
 - Import the project
 - Open stepdefs folder - click on RunCukesTest
 - Test result will be output
-- Bug Report is inside the project
+- Bug Report is inside the project(click to open)
